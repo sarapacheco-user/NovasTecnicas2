@@ -1,0 +1,6 @@
+set = igual sem a necessidade de repetição, só aparece uma vez
+multiset = caso repetições sejam necessárias
+map = consultas em termo logaritmo, e precisa indicar o índice para o conteúdo que você quer manipular
+hash mapo ou unordered map = a consulta tem tempo constante ao invés de tempo 
+logarítmico, e precisa indicar o índice para o conteúdo que quer manipular
+priority queue = quando se precisa retirar elementos da estrutura usando algum critério específico 
